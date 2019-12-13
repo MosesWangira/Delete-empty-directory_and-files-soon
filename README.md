@@ -1,4 +1,4 @@
-# Delete-directory-and-files
+# Delete-empty-directory-and-files-soon
 Deletes empty directories  provided name of disk volume to check is given
 
 Do you have alot of empty directories in your pc
